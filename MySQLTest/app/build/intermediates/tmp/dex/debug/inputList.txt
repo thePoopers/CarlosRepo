@@ -1,0 +1,2 @@
+/Applications/MAMP/htdocs/MannyRepo/MySQLTest/app/build/intermediates/classes/debug
+/Applications/MAMP/htdocs/MannyRepo/MySQLTest/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-32e240a3af33fef6915a17b1416c0122598d28b0.jar
